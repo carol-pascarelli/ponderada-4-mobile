@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039273066449",
+    "project_id": "reminders-e1f6a",
+    "storage_bucket": "reminders-e1f6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039273066449:android:3631f4d854405b962e2af0",
+        "android_client_info": {
+          "package_name": "com.example.ponderada_4_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPza0U3yf9IJAI-klGoc1ipKtuq5Cep2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
